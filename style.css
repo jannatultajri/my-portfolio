@@ -1,0 +1,142 @@
+body{
+    margin:0%;
+}
+.head{
+    width: 100%;
+    background: linear-gradient(to right,rgb(62, 186, 235) 0%,#b0daef 100%);
+    margin: 0%;
+    display: flex;
+    height: 330px;
+    color: white;
+
+   
+}
+.head1{
+    width: 30%;
+    padding: 20px;
+    margin-left:50px;
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+.head2 {
+        width: 30%;
+        margin-left:50px;
+        font-weight: 500;
+        font-size: 18px;
+
+}
+
+  
+    
+.head3{
+   width: 30%;
+    padding: 20px;
+    text-align: center;
+    margin-left:50px;
+}
+.pic{
+    height: 320px;
+    width: 320px;
+    border: 5px solid white;
+    border-radius: 50%;
+
+}
+
+   
+.font{
+    color: blue;
+}
+.img{
+    height: 100px;
+    width: 70%;
+    display: flex;
+     background-color: rgb(251, 255, 255);
+     margin: 10px auto;
+     margin-top: 50px;
+ 
+    
+    border-radius: 20px;
+    box-shadow:0px 0px 20px 0px #54aedc;
+    
+
+}
+.p1{
+    
+    padding:10px;
+    margin: 20px auto;
+     
+}
+.p1:hover{
+    transition: 1s;
+    margin-top: -10px;
+}
+
+.my{
+    text-align: center;
+    color: skyblue;
+    margin-top: 80px;
+    font-size: 250%;
+}
+.md{
+    display: flex;
+    margin-left: 180px;
+}
+.s1{
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgba(237, 234, 234, 0.932);
+    padding: 10px;
+    margin: 30px;
+}
+.s2{
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    background-color:skyblue;
+    padding: 17px;
+    margin:30px;
+    margin-top: -10px;
+    box-shadow:0px 0px 20px 0px rgb(132, 211, 242) ;
+}
+.s2,h1{
+
+}
+.s3{
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgba(237, 234, 234, 0.932);
+    padding: 10px;
+    margin: 30px;
+}
+    
+    
+    
+
+.md1{
+    background-image:linear-gradient(to right,rgb(228, 238, 241),rgb(255, 255, 255));;
+    display: flex;
+    width:100%;
+    height: 300px;
+    overflow: visible;
+}
+.about,button{
+    height:30px;
+    border-radius: 10px;
+   
+}
+    .about{
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    footer{
+        height: 100px;
+        margin-top: 250px;
+       width: 100%;
+        text-align: center;
+        background-color: rgb(71, 71, 245);
+        color: white;
+        font-size: 20px;
+      }
